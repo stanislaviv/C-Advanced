@@ -1,0 +1,6 @@
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\bin\Debug\1.ReverseNumberStack.exe.config
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\bin\Debug\1.ReverseNumberStack.exe
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\bin\Debug\1.ReverseNumberStack.pdb
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\obj\Debug\1.ReverseNumberStack.csprojResolveAssemblyReference.cache
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\obj\Debug\1.ReverseNumberStack.exe
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\1.ReverseNumberStack\obj\Debug\1.ReverseNumberStack.pdb

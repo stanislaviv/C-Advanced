@@ -1,0 +1,5 @@
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab4.MatchingBrackets\bin\Debug\_Lab4.MatchingBrackets.exe.config
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab4.MatchingBrackets\bin\Debug\_Lab4.MatchingBrackets.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab4.MatchingBrackets\bin\Debug\_Lab4.MatchingBrackets.pdb
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab4.MatchingBrackets\obj\Debug\_Lab4.MatchingBrackets.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab4.MatchingBrackets\obj\Debug\_Lab4.MatchingBrackets.pdb

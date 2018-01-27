@@ -1,0 +1,6 @@
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\bin\Debug\_Lab1.ReverseString.exe.config
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\bin\Debug\_Lab1.ReverseString.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\bin\Debug\_Lab1.ReverseString.pdb
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\obj\Debug\_Lab1.ReverseString.csprojResolveAssemblyReference.cache
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\obj\Debug\_Lab1.ReverseString.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab1.ReverseString\obj\Debug\_Lab1.ReverseString.pdb

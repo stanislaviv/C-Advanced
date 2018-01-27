@@ -1,0 +1,6 @@
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.exe.config
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.exe
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\bin\Debug\3.MaximumElement.pdb
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\obj\Debug\3.MaximumElement.csprojResolveAssemblyReference.cache
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\obj\Debug\3.MaximumElement.exe
+S:\SoftUni\4_C#_Advanced\C-Sharp-Advanced\1_Stacks&Queues\1_StacksAndQueues\3.MaximumElement\obj\Debug\3.MaximumElement.pdb

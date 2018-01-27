@@ -1,0 +1,6 @@
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\bin\Debug\_Lab2.SimleCalculator.exe.config
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\bin\Debug\_Lab2.SimleCalculator.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\bin\Debug\_Lab2.SimleCalculator.pdb
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\obj\Debug\_Lab2.SimleCalculator.csprojResolveAssemblyReference.cache
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\obj\Debug\_Lab2.SimleCalculator.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab2.SimleCalculator\obj\Debug\_Lab2.SimleCalculator.pdb

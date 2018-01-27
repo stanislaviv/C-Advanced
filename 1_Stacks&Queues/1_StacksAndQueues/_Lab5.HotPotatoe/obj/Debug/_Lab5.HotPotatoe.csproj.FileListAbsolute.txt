@@ -1,0 +1,6 @@
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\bin\Debug\_Lab5.HotPotatoe.exe.config
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\bin\Debug\_Lab5.HotPotatoe.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\bin\Debug\_Lab5.HotPotatoe.pdb
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\obj\Debug\_Lab5.HotPotatoe.csprojResolveAssemblyReference.cache
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\obj\Debug\_Lab5.HotPotatoe.exe
+S:\SoftUni\4_C#_Advanced\1_Stacks&Queues\1_StacksAndQueues\_Lab5.HotPotatoe\obj\Debug\_Lab5.HotPotatoe.pdb
